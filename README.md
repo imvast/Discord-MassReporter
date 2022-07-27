@@ -1,2 +1,2 @@
-# Discord-Mass-Report
-Discord Mass Reporter :)
+# Discord-MassReporter
+A Mass Reporter for Discord :)
