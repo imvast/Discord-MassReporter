@@ -1,3 +1,2 @@
 # Discord-MassReporter
-A Mass Reporter for Discord :)
-Release at 100 stars
+New/updated report system, golang version (hella fast), 20 stars release
