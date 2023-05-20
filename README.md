@@ -1,2 +1,3 @@
 # Discord-MassReporter
-New/updated report system, golang version (hella fast), 20 stars release
+- New/updated report system
+- made in python
